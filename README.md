@@ -1,5 +1,4 @@
-# ML_A1_Napassorn
-# Car Price Prediction Web Application
+# ML_A1_Napassorn-  Car Price Prediction Web Application
 
 This repository hosts a web-based system to predict car prices using machine learning. The system uses various car features to estimate prices. Below is a quick guide on how to set up and use the application.
 
@@ -65,12 +64,11 @@ Run docker-compose up to build and start the Docker containers as per the docker
    - Max power (bhp)
    
     Once you've filled in all the necessary information, click the "Predict Price" button.
-   
-![homepage](https://github.com/user-attachments/assets/12c0c2c9-043e-44e6-96c0-1ceaa740eb63)   
+   ![homepage](https://github.com/user-attachments/assets/12c0c2c9-043e-44e6-96c0-1ceaa740eb63)   
 
 3. **View the reult:**
     The web app will process the information you've provided and display the predicted price of your car.
-![result](https://github.com/user-attachments/assets/3cc9e562-61da-4282-8e8f-a566ec14a140)
+   ![result](https://github.com/user-attachments/assets/3cc9e562-61da-4282-8e8f-a566ec14a140)
 
 
    
