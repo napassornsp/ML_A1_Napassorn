@@ -21,13 +21,13 @@ To set up and deploy the project on your local machine, please follow these step
 
 2. Clone the repository:
     ```bash
-    git clone https://github.com/napassornsp/ML.git
+    git clone https://github.com/napassornsp/ML_A1_Napassorn.git
     ```
 
 3. Navigate to the project directory:
 
     ```bash
-    cd ML/Homework/A1-Predicting_Car_Prices
+    cd ./ML_A1_Napassorn/
     ```
 
 4.  Deploy the website:
