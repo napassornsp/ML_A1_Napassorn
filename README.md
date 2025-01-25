@@ -66,14 +66,12 @@ Run docker-compose up to build and start the Docker containers as per the docker
    
     Once you've filled in all the necessary information, click the "Predict Price" button.
    
-![homepage](https://github.com/user-attachments/assets/251023f9-9f12-42af-9123-05d845e31ff4)
-
-   
+![homepage](https://github.com/user-attachments/assets/12c0c2c9-043e-44e6-96c0-1ceaa740eb63)   
 
 3. **View the reult:**
     The web app will process the information you've provided and display the predicted price of your car.
-    
-![image](https://github.com/user-attachments/assets/4bea6772-3468-45b5-a64a-6d7431103a92)
+![result](https://github.com/user-attachments/assets/3cc9e562-61da-4282-8e8f-a566ec14a140)
+
 
    
    
