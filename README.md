@@ -65,12 +65,15 @@ Run docker-compose up to build and start the Docker containers as per the docker
    - Max power (bhp)
    
     Once you've filled in all the necessary information, click the "Predict Price" button.
+   
+![homepage](https://github.com/user-attachments/assets/251023f9-9f12-42af-9123-05d845e31ff4)
 
-   ![alt text](homepage-1.png)
+   
 
 3. **View the reult:**
     The web app will process the information you've provided and display the predicted price of your car.
     
-   ![alt text](image.png)
+![image](https://github.com/user-attachments/assets/4bea6772-3468-45b5-a64a-6d7431103a92)
+
    
    
