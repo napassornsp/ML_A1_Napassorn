@@ -40,6 +40,7 @@ Run docker-compose up to build and start the Docker containers as per the docker
     Open http://localhost:600 in your web browser to view the locally hosted website.
 
 
+
 ## Visual Guide to Using the Car Price Predictor
 
 1. **Homepage :**
@@ -55,7 +56,7 @@ Run docker-compose up to build and start the Docker containers as per the docker
     Once you've filled in all the necessary information, click the "Predict Price" button.
    ![homepage](https://github.com/user-attachments/assets/12c0c2c9-043e-44e6-96c0-1ceaa740eb63)   
 
-3. **View the reult:**
+2. **View the reult:**
     The web app will process the information you've provided and display the predicted price of your car.
    ![result](https://github.com/user-attachments/assets/3cc9e562-61da-4282-8e8f-a566ec14a140)
 
