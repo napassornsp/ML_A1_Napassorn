@@ -1,0 +1,7 @@
+services:
+  amy_service:
+    image: mycustomimagea1:latest
+    ports:
+      - "600:600"
+    working_dir: /app
+    restart: always
