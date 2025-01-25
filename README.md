@@ -6,7 +6,7 @@ This repository hosts a web-based system to predict car prices using machine lea
 ## Table of Contents
 
 - [Project Setup Instructions](#Project-Setup-Instructions)
-- [Project Structure](#project-structure)
+- [Project Components](#Project-Components)
 - [Visual Guide to Using the Car Price Predictor](#Visual-Guide-to-Using-the-Car-Price-Predictor)
 
 
