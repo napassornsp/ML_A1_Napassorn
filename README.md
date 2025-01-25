@@ -5,7 +5,6 @@ This repository hosts a web-based system to predict car prices using machine lea
 ## Table of Contents
 
 - [Project Setup Instructions](#Project-Setup-Instructions)
-- [Project Components](#Project-Components)
 - [Visual Guide to Using the Car Price Predictor](#Visual-Guide-to-Using-the-Car-Price-Predictor)
 
 
@@ -39,16 +38,6 @@ Run docker-compose up to build and start the Docker containers as per the docker
 5. Access the website:
 
     Open http://localhost:600 in your web browser to view the locally hosted website.
-
-   
-## Project Components
-
-- **app/**: This folder contains all web application files, including the main Python script `app.py`, `templates/`, and `static/`.
-- **code/**: Contains the `Napassorn_A1.ipynb` file that details the modeling process.
-- **model/**: This directory includes the machine learning model files necessary for predictions.
-- **Dockerfile**:  Contains commands for Docker to build the application environment.
-- **requirements.txt**: A list of Python libraries required for the application to function correctly.
-- **README.md**: he file you're currently reading that provides detailed project information.
 
 
 ## Visual Guide to Using the Car Price Predictor
